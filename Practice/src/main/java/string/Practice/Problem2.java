@@ -4,9 +4,10 @@ import java.util.Scanner;
 
 public class Problem2 {
 
-	@SuppressWarnings("null")
+	
 	public static void main(String arg[]) {
 		
+		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the string to be reversed : ");
 		String s = sc.nextLine();

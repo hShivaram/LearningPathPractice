@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Problem3 {
 
+@SuppressWarnings("resource")
 public static void main(String arg[]) {
 		
 		Scanner sc = new Scanner(System.in);
