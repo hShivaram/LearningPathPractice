@@ -8,6 +8,9 @@ public class VirtualCapacityArrayList {
 		
 		
 		ArrayList<Object> arr = new ArrayList<Object>();
+		//Initial virtual capacity for an arraylist is 10, if we
+		//need to increase , 
+		//the ArrayList<Object> arr = new ArrayList<Object>(20);
 		
 		System.out.println(arr.size());
 		
