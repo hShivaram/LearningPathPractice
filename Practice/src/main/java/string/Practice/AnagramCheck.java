@@ -17,9 +17,7 @@ public class AnagramCheck {
 		if(index != -1)
 		{ 
 			anagram = anagram.substring(0,index) + anagram.substring(index +1, anagram.length());
-			//System.out.println("aaaa : "+anagram.substring(0,index));
-			//System.out.println(anagram);
-			//System.out.println(anagram.substring(index +1, anagram.length()));
+			
 			}
 		else
 		{ 
