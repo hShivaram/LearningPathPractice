@@ -1,4 +1,4 @@
-package oops.Practice;
+package oops.Practice.InheritanceClass;
 
 public class Cat extends Animal{
 	
