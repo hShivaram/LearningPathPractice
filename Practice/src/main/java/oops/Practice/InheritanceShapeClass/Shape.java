@@ -1,4 +1,4 @@
-package oops.Practice;
+package oops.Practice.InheritanceShapeClass;
 
 public class Shape {
 	

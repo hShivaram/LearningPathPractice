@@ -1,6 +1,6 @@
-package oops.Practice;
+package oops.Practice.InheritanceClass;
 
-public class Main {
+public class MainCls {
 
 	public static void main(String[] args) {
 		
