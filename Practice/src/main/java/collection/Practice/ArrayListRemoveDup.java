@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class ArrayListRemoveDup {
 
 	public static void main(String[] args) {
-		ArrayList<Object> arr1 = new ArrayList<Object>(Arrays.asList("Java","JS","ABAP","C#","Python"));
+		ArrayList<Object> arr1 = new ArrayList<Object>(Arrays.asList("Java","JS","ABAP","C#","Python","GoLang"));
 		
 		ArrayList<String> arr2 = new ArrayList<String>(Arrays.asList("Java","ABAP","C#","Python"));
 		
