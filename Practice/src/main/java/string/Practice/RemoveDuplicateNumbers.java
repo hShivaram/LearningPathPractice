@@ -9,7 +9,7 @@ import java.util.Map;
 public class RemoveDuplicateNumbers {
 	
 	
-/*	public static int removeDuplicateElements(int arr[], int n){  
+public static int removeDuplicateElements(int arr[], int n){  
         if (n==0 || n==1){  
             return n;  
         }  
@@ -26,7 +26,7 @@ public class RemoveDuplicateNumbers {
             arr[i] = temp[i];  
         }  
         return j;  
-    }  */
+    }  
 	
 	public static int[] dup(int arr[],int l) {
 		HashMap<Integer, Integer> mp = new HashMap<Integer, Integer>();
