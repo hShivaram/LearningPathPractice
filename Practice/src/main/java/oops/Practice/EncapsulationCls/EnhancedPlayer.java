@@ -5,6 +5,7 @@ public class EnhancedPlayer {
 	private String name;
 	private int hitPoints;
 	private String weapon;
+	 static int data=3;
 	public EnhancedPlayer(String name, int hitPoints, String weapon) {
 		super();
 		this.name = name;

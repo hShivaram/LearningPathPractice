@@ -10,6 +10,9 @@ public class Mainclss {
 		player.loseHealth(27);
 		
 		System.out.println("Player health is "+ player.getHealth());
+		
+		//player.data=5;
+		System.out.println(player.data);
 
 	}
 
